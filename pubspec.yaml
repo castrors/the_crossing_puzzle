@@ -9,7 +9,7 @@ environment:
 dependencies:
   bloc: ^8.1.4
   equatable: ^2.0.5
-  flame: 1.22.0
+  flame: 1.26.1
   flame_audio: 2.1.8
   flame_behaviors: ^1.2.0
   flame_tiled: ^1.21.1
